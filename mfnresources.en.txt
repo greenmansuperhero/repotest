@@ -1,4 +1,2 @@
 teststring=OK string
-Key_da57ea9c-34a2-4d92-82d0-6fddcf68b54d=da57ea9c-34a2-4d92-82d0-6fddcf68b54d
-Key_8b33012d-8c43-414d-a8d6-b4d7df537363=8b33012d-8c43-414d-a8d6-b4d7df537363
-Key_e0ce61dc-199f-45a1-bb3f-847c448e9826=e0ce61dc-199f-45a1-bb3f-847c448e9826
+
