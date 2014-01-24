@@ -1,3 +1,4 @@
 teststring=OK string
 Key_da57ea9c-34a2-4d92-82d0-6fddcf68b54d=da57ea9c-34a2-4d92-82d0-6fddcf68b54d
 Key_8b33012d-8c43-414d-a8d6-b4d7df537363=8b33012d-8c43-414d-a8d6-b4d7df537363
+Key_Rosetta_20140114_153057=a610f5a0-9a73-4ca1-9ae8-21dfb762d7a9
