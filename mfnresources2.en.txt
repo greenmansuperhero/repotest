@@ -1,1 +1,0 @@
-testonestring=NOT OK string
